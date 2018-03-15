@@ -1,4 +1,4 @@
-#mosquitto-with-http-auth
+# mosquitto-with-http-auth
 
 Docker image of MQTT broker [mosquitto](https://mosquitto.org/) with compiled [mosquitto-auth-plug](https://github.com/jpmens/mosquitto-auth-plug) (only `http` backend).
 
